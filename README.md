@@ -257,9 +257,8 @@ mouseover (鼠标移入) → mousedown (按下) → click (点击)
 
 ## 📞 联系方式
 
-- 📧 Email: [您的邮箱]
-- 💬 Discussions: [项目讨论]
-- 🐛 Bug Report: [Issue 链接]
+- 📧 Email: [yiives@foxmail.com]
+]
 
 ## 📄 许可证
 

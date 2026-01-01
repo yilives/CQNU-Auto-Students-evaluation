@@ -6,6 +6,7 @@
 // @match        https://webvpn.cqnu.edu.cn/webvpn/*/jwglxt/xspjgl/xspj_*
 // @match        https://jwglxt.cqnu.edu.cn/jwglxt/xspjgl/xspj_*
 // @match        *://*/jwglxt/xspjgl/xspj_*
+// @match        https://jwglxt.*
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
@@ -15,7 +16,7 @@
 
   // ==================== 配置参数 ====================
   const CONFIG = {
-    // 丰富的评语库
+    // 评语库
     comments: [
       '老师授课认真负责，课堂气氛活跃，能够很好地调动学生的学习积极性。教学内容充实，重点突出，讲解清晰，使我受益匪浅。',
       '老师教学方法灵活多样，善于引导学生思考，注重理论与实践相结合。课堂互动频繁，能够及时解答疑问，教学效果显著。',
@@ -960,3 +961,4 @@
   });
 
 })();
+

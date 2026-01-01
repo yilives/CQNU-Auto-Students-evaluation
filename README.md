@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Tampermonkey-orange.svg)
 
-一个基于 Tampermonkey 的高级油猴脚本，用于自动填报学生评价系统（支持CQNU重庆师范大学及类似系统）。该脚本采用完整的鼠标事件模拟、随机延时、人类行为模式等反爬虫措施，确保评价过程自然、安全。
+一个基于 Tampermonkey 的高级油猴脚本，用于自动填报学生评价系统（支持CQNU重庆师范大学及类似正方教务系统系统）。该脚本采用完整的鼠标事件模拟、随机延时、人类行为模式等反爬虫措施，确保评价过程自然、安全。
 
 ## ✨ 功能特性
 

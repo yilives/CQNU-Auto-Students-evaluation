@@ -7,6 +7,8 @@
 // @match        https://jwglxt.cqnu.edu.cn/jwglxt/xspjgl/xspj_*
 // @match        *://*/jwglxt/xspjgl/xspj_*
 // @match        https://jwglxt.*
+// @match        https://webvpn.*.edu.cn/webvpn/*/jwglxt/xspjgl/xspj_*
+// @match        https://jwglxt.*.edu.cn/jwglxt/xspjgl/xspj_*
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
@@ -961,4 +963,5 @@
   });
 
 })();
+
 

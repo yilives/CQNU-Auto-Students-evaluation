@@ -1,6 +1,6 @@
 # CQNU-Auto-Students-evaluation
 # 学生评价自动填报工具
-
+# 适用于正方教务系统
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Tampermonkey-orange.svg)
@@ -258,7 +258,7 @@ mouseover (鼠标移入) → mousedown (按下) → click (点击)
 ## 📞 联系方式
 
 - 📧 Email: [yiives@foxmail.com]
-]
+
 
 ## 📄 许可证
 
